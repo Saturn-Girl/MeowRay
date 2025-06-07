@@ -23,6 +23,8 @@ Download the source code and choose a release.
 In the project folder, create a new text file and paste the following:
 
 cmd.exe
+
+
 Rename the file from .txt to .bat (e.g., start_server.bat).
 
 Double-click the .bat file.
