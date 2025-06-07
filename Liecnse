@@ -1,6 +1,23 @@
-This software is licensed under Saturn Computing Dev's Special License
+Saturn Computing Dev's Special License
 
-You can  modify the source code but DO NOT MODIFY THE X86 ASSEMBLY CODE
-You can re-distribute the software
-This software is not free
+This software is licensed under the Saturn Computing Dev's Special License.
 
+============================
+🔒 Actions You May NOT Do:
+============================
+- You may NOT modify the Python file `MeowRay.py`.
+- You may NOT host this software on third-party hosting services.
+
+============================
+✅ Actions You ARE Allowed To Do:
+============================
+- You MAY modify the HTML, CSS, and JavaScript files.
+- You MAY host the HTML, CSS, and JavaScript on your own home server.
+- You MAY redistribute the software (unaltered or with allowed modifications).
+
+============================
+💰 Important Notice:
+============================
+- This software is NOT free. A valid license must be obtained for use.
+
+© Saturn Computing Dev
